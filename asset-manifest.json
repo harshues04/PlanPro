@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PlanPro/static/css/main.44295428.css",
+    "main.js": "/PlanPro/static/js/main.61ad5f2a.js",
+    "static/js/453.f79a41af.chunk.js": "/PlanPro/static/js/453.f79a41af.chunk.js",
+    "index.html": "/PlanPro/index.html",
+    "main.44295428.css.map": "/PlanPro/static/css/main.44295428.css.map",
+    "main.61ad5f2a.js.map": "/PlanPro/static/js/main.61ad5f2a.js.map",
+    "453.f79a41af.chunk.js.map": "/PlanPro/static/js/453.f79a41af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44295428.css",
+    "static/js/main.61ad5f2a.js"
+  ]
+}
